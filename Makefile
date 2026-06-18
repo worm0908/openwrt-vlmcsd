@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=vlmcsd
-PKG_VERSION:=svn1113
+PKG_VERSION:=1113~svn
 PKG_RELEASE:=1
 
 PKG_MAINTAINER:=HotBird64
