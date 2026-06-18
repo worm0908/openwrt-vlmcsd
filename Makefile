@@ -8,7 +8,7 @@ PKG_MAINTAINER:=HotBird64
 PKG_LICENSE:=MIT
 PKG_LICENSE_FILES:=LICENSE
 
-PKG_SOURCE:=$(PKG_VERSION).tar.gz
+PKG_SOURCE:=svn1113.tar.gz
 PKG_SOURCE_URL:=https://github.com/cokebar/vlmcsd/archive
 PKG_MD5SUM:=ea19cc1346fba447daced0224b670423
 
